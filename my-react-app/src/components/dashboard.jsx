@@ -1,5 +1,6 @@
 import React from 'react';
 import './Dashboard.css';
+import Dashinner from 
 import Group1Image from './images/Group1.jpg';
 
 
