@@ -2,7 +2,7 @@ import Reat from 'react'
 import dashboard from './components/dashboard';
  import './App.css';
  function App() {
-  return (
+  return(
     <div>
       <dashboard/>
     </div>
