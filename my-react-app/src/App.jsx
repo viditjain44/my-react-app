@@ -1,4 +1,4 @@
-import React from 'react'
+import Reat from 'react'
 import dashboard from './components/dashboard';
  import './App.css';
  function App() {
