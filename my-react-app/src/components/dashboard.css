@@ -1,0 +1,82 @@
+*{
+    margin: 0%;
+   overflow-y: hidden;
+   overflow-x:hidden ;
+
+}
+.start{
+    margin-left: 1em;
+    padding-top: 1em;
+    font-style: 
+    Baloo 2; 
+   
+}
+.equi{
+    border-radius: 100%;
+  
+   
+ 
+}
+.txt{
+    margin-top: -2em;
+    margin-left: 3em;
+}
+.overview{
+  color:  #BEB9B9;
+  margin-top: 2em;
+  margin-left: .6em;
+  font-family: 
+  Baloo 2;
+  font-size: 150%;
+}
+
+.dashboard{
+    margin-left: 2.8em;
+    margin-top: 2em;
+    width: 15em;
+    height: 3.5em;
+    border-radius: 8px;
+    background-color: 
+   #737A87;
+    ;
+    color: #BEB9B9;
+}
+.leftportion{
+    width: 20em;
+    height: 100em;
+    background-color: #15223C;
+    ;
+    color: #fff;
+    font-family: 
+    Baloo Paaji 2;
+
+}
+.portfolio{
+    margin-left: 2.8em;
+    margin-top: 1em;
+    width: 15em;
+    height: 3.5em;
+    border-radius: 8px;
+    background-color: 
+
+    #737A87;
+;
+    color:#BEB9B9;
+    ;
+}
+.lftruler{
+    margin-top: 16em;
+}
+.logout{
+    margin-left: 2.8em;
+    margin-top: 2em;
+    width: 15em;
+    height: 3.5em;
+    border-radius: 8px;
+    background-color: 
+
+    #737A87;
+;
+    color:#BEB9B9;
+    ;
+}

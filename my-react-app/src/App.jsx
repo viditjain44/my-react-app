@@ -1,10 +1,11 @@
-import Reat from 'react'
-import dashboard from './components/dashboard';
+import React from 'react'
+ import Dashboard from "./Components/Dashboard";
+
  import './App.css';
  function App() {
   return(
     <div>
-      <dashboard/>
+      <Dashboard/>
     </div>
   );
 }
