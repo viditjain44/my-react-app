@@ -1,13 +1,15 @@
-import React from 'react'
- import Dashboard from "./Components/Dashboard";
-
- import './App.css';
+ import React from 'react';
+  //  import Dashboard from "./Components/Dashboard.jsx";
+  
+  import Dashinner from "./Components/Dashinner.jsx";
+ import './App.css'; 
  function App() {
-  return(
+   return(
     <div>
-      <Dashboard/>
-    </div>
+    <Dashinner/>
+   </div>
   );
 }
  
-export default App;
+ export default App;
+
