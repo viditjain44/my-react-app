@@ -7,6 +7,7 @@
    return(
     <div>
     <Dashinner/>
+    {/* <Dashboard/> */}
    </div>
   );
 }

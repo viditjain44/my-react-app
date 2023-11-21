@@ -61,3 +61,47 @@
     border-radius: 20px;
     background-color: #1B2028;
 }
+#Stocks{
+    position:relative;
+    width:162px;
+    height:44px;
+    top: 15px;
+    border-radius: 8px;
+    left:2em;
+    background-color: #f6d22f;
+    font-family: monospace;
+    font-size: large;
+}
+#list{
+    width: 543px;
+    height: 363px;
+    position: relative;
+    top: 25px;
+    left: 32px;
+    background: #1B2028;
+    border-radius: 13px;
+}
+#inlist1{
+    position: relative;
+    width: 119px;
+    height: 28px;
+    top: 20px;
+    border-radius: 8px;
+    left: 1em;
+    background-color: #3bbe22;
+    font-family: monospace;
+    font-size: large;
+    color: white;
+}
+#inlist2{
+    position: relative;
+    width: 101px;
+    height: 28px;
+    top: 20px;
+    border-radius: 8px;
+    left: 2em;
+    background-color: #eb1f1f;
+    font-family: monospace;
+    font-size: large;
+    color: white;
+}
