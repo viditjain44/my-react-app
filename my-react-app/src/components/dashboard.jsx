@@ -1,12 +1,13 @@
 import React from 'react';
 import './Dashboard.css';
-// import { Link } from 'react-router-dom';
-//  import Dashinner from './Dashinner';
+// import { Link } from 'react-router-dom'; 
 import Group1Image from './images/Group1.jpg';
-
-
+import Dashinner from './Dashinner'
 function Dashboard(){
     return (
+      <>
+      <div style={{display:'flex'}} >
+
         <div className='leftportion'>
            
             <div className='start'> <img  className='equi' img src={Group1Image} alt="Group 1" /><h2 className='txt'> Equinex</h2></div>
@@ -20,6 +21,11 @@ function Dashboard(){
           </hr>
           <button className='logout'> <h2>logout</h2></button>
         </div>
+        <div>
+<Dashinner/>
+</div>
+      </div>
+</>
       );
     }
 export  default Dashboard;
