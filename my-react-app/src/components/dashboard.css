@@ -1,7 +1,6 @@
 *{
     margin: 0%;
-   overflow-y: hidden;
-   overflow-x:hidden ;
+   
 
 }
 .start{
@@ -34,7 +33,7 @@
     margin-left: 2.8em;
     margin-top: 2em;
     width: 15em;
-    height: 3.5em;
+    /* height: 3.5em; */
     border-radius: 8px;
     background-color: 
    #737A87;
