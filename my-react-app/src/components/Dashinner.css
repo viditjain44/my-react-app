@@ -45,7 +45,7 @@
 
 .nifty{
     margin-left: 35em;
-    margin-top:-3.4em;;
+    margin-top:-2.3em;
 }
 .svalue2{
     
@@ -56,6 +56,11 @@
         
     
 }
+.button{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 3em;
+}
 .bitcoin{
     width: 17.5em;
     padding: 4.5em;
@@ -63,6 +68,7 @@
     border-radius: 20px;
     background-color: #1B2028;
 }
+
 #Stocks{
 
     width: 9.9375rem;
