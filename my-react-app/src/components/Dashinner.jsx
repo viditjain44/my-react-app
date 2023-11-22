@@ -1,5 +1,10 @@
 import React from "react";
 import './Dashinner.css';
+import bitcoinfirstImage from './images/bitcoinfirst.jpg';
+import bitcoinsecondImage from './images/bitcoinsecond.jpg';
+import bitcointhirdImage from './images/bitcointhird.jpg';
+import bitcointhirdinsideImage from './images/bitcointhirdinside.jpg';
+import bitcoinfourthImage from './images/bitcoinfourth.jpg';
 function Dashinner(){
     return(
          
@@ -9,8 +14,10 @@ function Dashinner(){
        <button className="crypto"> <b>Crypto</b></button>
        <h2 className="sensex">Sensex : <h2 className="svalue">64587.3<h1 className="profit">+22.15</h1></h2></h2>
        <h2 className="nifty">Nifty : <h2 className="svalue2">64587.3<h1 className="profit">-22.15</h1></h2> </h2>
-        <div className="button"><button className="bitcoin"></button>
-       <button className="bitcoin"></button><button className="bitcoin"></button><button className="bitcoin"></button>
+        <div className="button"><button className="bitcoin"><img  className='bit1' img src={bitcoinfirstImage} alt="Group 1" /><h3 className="txt1">Bitcoin</h3> <h5 className="txt2">BTC</h5> <h2 className="txt3">$52,291</h2> <h5 className="txt4">+0.25%</h5></button>
+       <button className="bitcoin2"><img  className='bit2' img src={bitcoinsecondImage} alt="Group 1" /><h3 className="txt1">Litecoin</h3> <h5 className="txt2">ITC</h5> <h2 className="txt3">$8,291</h2> <h5 className="txt4">+0.25%</h5></button>
+       <button className="bitcoin3"><img  className='bit2' img src={bitcointhirdImage} alt="Group 1" /><img  className='helo' img src={bitcointhirdinsideImage} alt="Group 1" /><h3 className="txt1">Etherium</h3> <h5 className="txt2">ITC</h5> <h2 className="txt3">$8,291</h2> <h5 className="txt4">+0.25%</h5></button>
+       <button className="bitcoin4"><img  className='bit2' img src={bitcoinfourthImage} alt="Group 1" /><h3 className="txt1">SOLANA</h3> <h5 className="txt2">ITC</h5> <h2 className="txt3">$8,291</h2> <h5 className="txt4">+0.25%</h5></button>
        </div>
 
         <div>
@@ -64,6 +71,11 @@ function Dashinner(){
                 </button>
             </div>
             <button id="bonds">Bonds</button>
+        </div><div className="lastportion">
+        <button className="bitcoin5"><img  className='bit2' img src={bitcoinsecondImage} alt="Group 1" /><h3 className="txt1">State Bank Of India</h3> <h5 className="txt2">ITC</h5> <h2 className="txt3">$8,291</h2> <h5 className="txt4">+0.25%</h5></button>
+        <button className="bitcoin5"><img  className='bit2' img src={bitcoinsecondImage} alt="Group 1" /><h3 className="txt1">Infoys</h3> <h5 className="txt2">INFY</h5> <h2 className="txt3">1446.41</h2> <h5 className="txt4">+36.62%</h5></button>
+        <button className="bitcoin5"><img  className='bit2' img src={bitcoinsecondImage} alt="Group 1" /><h3 className="txt1">Indian  Tobacco <br />Company</h3> <h5 className="txt2">ITC</h5> <h2 className="txt3">$8,291</h2> <h5 className="txta">+0.25%</h5></button>
+        <button className="bitcoin5"><img  className='bit2' img src={bitcoinsecondImage} alt="Group 1" /><h3 className="txt1">Yes Bank</h3> <h5 className="txt2">ITC</h5> <h2 className="txt3">20.25</h2> <h5 className="txta">+0.25%</h5></button>
         </div>
 <div id="box"></div>
        </div>
