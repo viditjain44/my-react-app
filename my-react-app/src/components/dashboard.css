@@ -43,7 +43,7 @@
 }
 .leftportion{
     width: 20em;
-    height: 100em;
+    height: auto;
     background-color: #15223C;
     ;
     color: #fff;
