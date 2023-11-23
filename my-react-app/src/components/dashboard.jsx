@@ -2,6 +2,7 @@ import React from 'react';
 import './Dashboard.css';
 // import { Link } from 'react-router-dom'; 
 import Group1Image from './images/Group1.jpg';
+
 import Dashinner from './Dashinner'
 function Dashboard(){
     return (
