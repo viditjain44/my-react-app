@@ -1,0 +1,479 @@
+
+.rightportion{
+    color:white;
+    /* margin-left: 20em; */
+    /* float: right; */
+    background-color: 
+    #31353F;
+    height: 150vh;
+    overflow-x: hidden;
+    width: 170vh;
+
+}
+.crypto{
+    border-radius: 6px;
+    background-color: #F6772F;
+    margin-top: 1em;
+    margin-left: 2em;
+    width: 8em;
+    padding: .6em;
+    font-family: monospace;
+    font-size: large;
+    
+}
+.dashb{
+    width: 70.1875rem;
+height: 4.8125rem;
+flex-shrink: 0;
+display: flex;
+/* justify-content: center; */
+align-items: center;
+    /* margin-left:1em ; */
+}
+.sensex {
+    margin-left: 25em;
+    margin-top: -1.8em;
+    
+}
+.svalue{
+    color: #51E057;
+    margin-left: 2.8em;
+    margin-top: -.9em;
+    
+}
+.profit{
+    margin-top: -.1em;
+    font-family: monospace;
+    font-size:50%;
+}
+
+.nifty{
+    margin-left: 35em;
+    margin-top:-2.3em;
+}
+.svalue2{
+    
+        color: 
+        #E20909;
+        margin-left: 2.3em;
+        margin-top: -1em;
+        
+    
+}
+.button{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 3em;
+}
+.bitcoin{
+    width: 17.5em;
+    height: 9.5em;
+    margin-left: 2em;
+    border-radius: 20px;
+    background-color: #1B2028;
+    color: white;
+}
+.bit1{
+    display: flex;
+   justify-content: star;
+   border-radius: 12px;
+   margin-left: 1em;
+   
+}
+.txt1{
+    margin-top: -2.3rem;
+    margin-left: -.5rem;
+}
+.txt2{
+    margin-top: .7rem;
+    margin-left: -3.1em;
+    color: #818285;
+}
+.txt3{
+    margin-top: 1em;
+    margin-left: -6em;
+    
+}
+.txt4{
+    margin-left:12em;
+    margin-top: -1.7em;
+    color: rgba(30, 203, 79, 1);
+}
+.bitcoin2{
+    width: 17.5em;
+    height: 9.5em;
+    margin-left: 2em;
+    border-radius: 20px;
+    background-color: #1B2028;
+    color: white;
+}
+.bit2{
+    display: flex;
+   justify-content: star;
+   border-radius: 12px;
+   margin-left: 1em;
+   
+}
+.bitcoin3{
+    width: 17.5em;
+    height: 9.5em;
+    margin-left: 2em;
+    border-radius: 20px;
+    background-color: #1B2028;
+    color: white;
+}
+
+.bitcoin4{
+    width: 17.5em;
+    height: 9.5em;
+    margin-left: 2em;
+    border-radius: 20px;
+    background-color: #1B2028;
+    color: white;
+}
+.helo{
+    
+    display: flex;
+    margin-top: -2.5em;
+    margin-left: 1.7em;
+    border-radius: 20px;
+}
+#Stocks{
+
+    width: 9.9375rem;
+    height: 2.75rem;
+    flex-shrink: 0;
+    border-radius: 0.5rem;
+    background-color: #F6CA2F;
+    margin:0.8rem 0rem 0rem 2rem;
+    color: #000;
+    font-family: Inter;
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+#list{
+    width: 543px;
+    height: 363px;
+    position: relative;
+    top: 25px;
+    left: 32px;
+    background: #1B2028;
+    border-radius: 13px;
+}
+#inlist1{
+    width: 7.5625rem;
+height: 1.8125rem;
+flex-shrink: 0;
+border-radius: 0.375rem;
+background: #77AD20;
+    color: #FFF;
+font-family: Poppins;
+font-size: 1rem;
+font-style: normal;
+font-weight: 600;
+line-height: 1rem; /* 100% */
+margin: 1rem 1rem 0rem 1rem;
+
+}
+#inlist2{
+    width: 6.28769rem;
+    height: 1.8125rem;
+    flex-shrink: 0;
+    border-radius: 0.375rem;
+background: #E13333;
+color: #FFF;
+font-family: Poppins;
+font-size: 1rem;
+font-style: normal;
+font-weight: 600;
+line-height: 1rem; /* 100% */
+}
+.listheading{
+    margin: 1.2rem 0rem 0rem 0rem;
+}
+.listhead{
+    display: flex;
+width: 4.1875rem;
+height: 1.5625rem;
+justify-content: center;
+flex-shrink: 0;
+    display: inline;
+    color: #FFF;
+font-family: Poppins;
+font-size: 1rem;
+font-style: normal;
+font-weight: 600;
+line-height: 1rem; /* 100% */
+}
+#company{
+    margin: 0rem 0rem 0rem 0.8rem;
+}
+#latest{
+    margin: 0rem 0rem 0rem 6.5rem;
+
+}
+#gain1{
+    margin: 0rem 0rem 0rem 2.5rem;
+    color: #1ECB4F;
+}
+#gain2{
+    margin: 0rem 0rem 0rem 2.5rem;
+    color: #1ECB4F;
+}
+#volume{
+    margin: 0rem 0rem 0rem 2.5rem;
+}
+.listitem{
+    margin: 0.9rem 0rem 0rem 0.5rem;
+    width: 32.9375rem;
+height: 3.4375rem;
+flex-shrink: 0;
+border-radius: 0.5rem;
+background: rgba(255, 255, 255, 0.24);
+}
+.listbtn{
+    width: 32.9375rem;
+    height: 3.4375rem;
+    flex-shrink: 0;
+    border-radius: 0.5rem;
+    background: rgba(255, 255, 255, 0.24);
+}
+.companydata{
+    display: flex;
+width: 4.1875rem;
+height: 1.5625rem;
+justify-content: center;
+flex-shrink: 0;
+    display: inline;
+    color: #FFF;
+font-family: Poppins;
+font-size: 1rem;
+font-style: normal;
+font-weight: 600;
+line-height: 1rem; /* 100% */
+    margin: 0rem 0rem 0rem 0.8rem;
+}
+#mahindra{
+    display:inline-flex;
+}
+.latestdata{
+    display: flex;
+    width: 4.1875rem;
+    height: 1.5625rem;
+    justify-content: center;
+    flex-shrink: 0;
+        display: inline;
+        color: #FFF;
+    font-family: Poppins;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 1rem; /* 100% */
+    margin: 0rem 0rem 0rem 6.5rem;
+}
+.gain1data{
+    display: flex;
+    width: 4.1875rem;
+    height: 1.5625rem;
+    justify-content: center;
+    flex-shrink: 0;
+        display: inline;
+        color: #FFF;
+    font-family: Poppins;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 1rem; /* 100% */
+    margin: 0rem 0rem 0rem 2.5rem;
+    color: #1ECB4F;
+}
+.gain2data{
+    display: flex;
+    width: 4.1875rem;
+    height: 1.5625rem;
+    justify-content: center;
+    flex-shrink: 0;
+        display: inline;
+        color: #FFF;
+    font-family: Poppins;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 1rem; /* 100% */
+    margin: 0rem 0rem 0rem 2.5rem;
+    color: #1ECB4F;
+}
+.Volumedata{
+    display: flex;
+    width: 4.1875rem;
+    height: 1.5625rem;
+    justify-content: center;
+    flex-shrink: 0;
+        display: inline;
+        color: #FFF;
+    font-family: Poppins;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 1rem; /* 100% */
+    margin: 0rem 0rem 0rem 2.5rem;
+}
+
+/*list completed*/
+
+#bonds{
+    width: 5.83331rem;
+    height: 2.1875rem;
+flex-shrink: 0;
+border-radius: 0.5rem;
+background: #2FF6F6;
+color: #000;
+font-family: Inter;
+font-size: 1.5rem;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+margin: 1rem 0rem 0rem 0.5rem;
+}
+
+.bitcoin5{
+    width: 17.5em;
+    height: 9.5em;
+    margin-left: 2em;
+    border-radius: 20px;
+    background-color: #1B2028;
+    color: white;
+    margin-top: 7em;
+}
+.lastportion{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.bit3{
+    display: flex;
+float: left-corner;
+    margin-left:1em;
+border-radius: 100px;
+margin-top: -.1em;}
+.txt5{
+    display: flex;
+    justify-content: right;
+    
+    margin-top: -3em;
+}
+
+.bitcoin6{
+    width: 17.5em;
+    height: 9.5em;
+    margin-left: 2em;
+    border-radius: 20px;
+    background-color: #1B2028;
+    color: white;
+    margin-top: 7em;
+}
+.bit4{
+    display: flex;
+    margin-top: -1em;
+    margin-left: .2em;
+}
+.txt6{
+    display: flex;
+margin-top:-2.3em ;
+margin-left:6.5em;
+}
+.txt7{
+    color: #bba7a7;
+    margin-left: .9em;
+    margin-top: .7em;
+}
+.txt8{
+    margin-left:12em;
+    margin-top: -1.7em;
+    color: rgba(30, 203, 79, 1);
+}
+.bitcoin7{
+    width: 17.5em;
+    height: 9.5em;
+    margin-left: 2em;
+    border-radius: 20px;
+    background-color: #1B2028;
+    color: white;
+    margin-top: 7em;
+}
+.txt9{
+ display: flex;
+ /* justify-content: end; */
+ margin-top: -3em;
+ margin-left: 4em;
+}
+.txt10{
+display: flex;
+justify-content: flex-start;
+margin-top: 1.2em;
+margin-left: .6em;
+}
+.txt11{
+    color: #5f5a5a;
+    margin-top:.4em;
+    margin-left: -5.4em;
+}
+.txt12{
+    display: flex;
+    margin-left: 1em;
+    margin-top: .4em;
+}
+.bit5{
+    display: flex;
+    margin: 1em;
+}
+.txt13{
+    display: flex;
+    margin-left: 8.5em;
+    margin-top: -2em;
+}
+.txta
+    {
+        margin-left:12em;
+        margin-top: -1.7em;
+        color: rgb(203, 30, 30);
+    }
+.dashimg{
+    width: 1.875rem;
+height: 1.875rem;
+flex-shrink: 0;
+}
+#dashtxt{
+    color: #FFF;
+font-family: Poppins;
+font-size: 2rem;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.notificationimg{
+    width: 2.1745rem;
+height: 2.625rem;
+flex-shrink: 0;
+margin: 0rem 0rem 0rem 0rem;
+}
+.accountimg{
+    width: 3.4375rem;
+height: 3.4375rem;
+flex-shrink: 0;
+    margin: 0rem 0rem 0rem 0rem;
+
+}
+
+#name{
+    color: #FFF;
+display:flex;
+font-family: Poppins;
+font-size: 0.875rem;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin: 0rem 0rem 0rem 55rem;
+}
