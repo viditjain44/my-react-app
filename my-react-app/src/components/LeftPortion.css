@@ -94,6 +94,7 @@ font-style: normal;
 font-weight: 700;
 line-height: normal;
 justify-content: center;
+margin-right: 24em;
 }
 #porttxt{
     display: flex;

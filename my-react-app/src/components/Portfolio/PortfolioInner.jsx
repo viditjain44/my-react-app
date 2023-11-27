@@ -6,7 +6,7 @@ function PortfolioInner() {
     <>
       <div className="rightportion">
 
-
+             hello world
       </div>
     </>
   )
